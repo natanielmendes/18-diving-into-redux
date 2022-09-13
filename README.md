@@ -2,7 +2,7 @@
 
 ### Project for diving into different redux concepts and exploring its functionalities
 
-In order to run this project, use the following `npm` commands:
+In order to run this project, type the following `npm` commands in a terminal:
 
 `npm install`
 
