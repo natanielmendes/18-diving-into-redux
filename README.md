@@ -1,6 +1,6 @@
 # 18-diving-into-redux + @redux-toolkit
 
-### Project for diving into different redux concepts and exploring its features in react-redux and expecially @redux-toolkit
+### Project for diving into different redux concepts and exploring its features in react-redux, especially @redux-toolkit
 
 There are experiments in this project involving:
 - Dispatching asynchronous actions
